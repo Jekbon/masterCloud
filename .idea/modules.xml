@@ -12,7 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/service-hi2/service-hi2.iml" filepath="$PROJECT_DIR$/service-hi2/service-hi2.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
-      <module fileurl="file://$PROJECT_DIR$/temp_ls/temp_ls.iml" filepath="$PROJECT_DIR$/temp_ls/temp_ls.iml" />
     </modules>
   </component>
 </project>
